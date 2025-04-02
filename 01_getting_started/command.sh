@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 docker run -d -p 9000:80 traefik/whoami    
 
